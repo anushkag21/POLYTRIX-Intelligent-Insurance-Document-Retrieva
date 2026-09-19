@@ -1,4 +1,4 @@
-# AI-Powered Insurance Policy Q&A 🤖📄
+# POLYTRIX – Intelligent Insurance Document Retrieval & Q&A🤖📄
 
 ### Retrieval-Augmented Generation (RAG) System for Intelligent Document Question Answering
 
